@@ -1,0 +1,3 @@
+/home/dmitry/NSU/3rd_course/operation_systems/lab10 Phil/cmake-build-debug/CMakeFiles/lab10_Phil.dir
+/home/dmitry/NSU/3rd_course/operation_systems/lab10 Phil/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/NSU/3rd_course/operation_systems/lab10 Phil/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lab2/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/cmake-build-debug/CMakeFiles/lab3.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab5/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab5/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab6/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab6/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/cmake-build-debug/CMakeFiles/lab7.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/cmake-build-debug/CMakeFiles/pkgRedirects" />
+      <excludeFolder url="file://$MODULE_DIR$/lab8 PI/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab8 PI/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab8 PI/cmake-build-debug/CMakeFiles/lab8_PI.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab9 PI/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab9 PI/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab9 PI/cmake-build-debug/CMakeFiles/lab9_PI.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10 Phil/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10 Phil/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10 Phil/cmake-build-debug/CMakeFiles/lab10_Phil.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10 Phil/cmake-build-debug/CMakeFiles/pkgRedirects" />
+      <excludeFolder url="file://$MODULE_DIR$/lab11/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab11/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab11/cmake-build-debug/CMakeFiles/lab11.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab13/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab13/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab13/cmake-build-debug/coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/lab30/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab30/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/lab30/cmake-build-debug/CMakeFiles/lab30.dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lab30/cmake-build-debug/CMakeFiles/pkgRedirects" />
+      <excludeFolder url="file://$MODULE_DIR$/make_file/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/make_file/cmake-build-debug/CMakeFiles/CMakeTmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

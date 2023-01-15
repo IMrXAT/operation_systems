@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.23)
+project(lab8_PI C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(lab8_PI main.c)
+
+find_package(Threads REQUIRED)
+target_link_libraries(lab8_PI PRIVATE Threads::Threads)

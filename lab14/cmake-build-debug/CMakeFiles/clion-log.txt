@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/dmitry/NSU/3nd_course/operation_systems/lab14 Select CMakeLists.txt

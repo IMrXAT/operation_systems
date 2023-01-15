@@ -1,0 +1,3 @@
+/home/dmitry/NSU/3rd course/1.operation systems/lab9 PI/cmake-build-debug/CMakeFiles/lab9_PI.dir
+/home/dmitry/NSU/3rd course/1.operation systems/lab9 PI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/NSU/3rd course/1.operation systems/lab9 PI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
